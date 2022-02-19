@@ -83,7 +83,7 @@ function App() {
   const updateData = async () => {
     setLoading(true);
     const response = await fetch(
-      "https://pakistan-stock-exchange.herokuapp.com/psx/top-3",
+      ""
       {
         "Content-Type": "application/json",
       }
