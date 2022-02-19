@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/psx-api-demo/static/css/main.073c9b0a.css",
+    "main.js": "/psx-api-demo/static/js/main.b271b3cf.js",
+    "static/js/787.93247c07.chunk.js": "/psx-api-demo/static/js/787.93247c07.chunk.js",
+    "static/media/loading.gif": "/psx-api-demo/static/media/loading.e2e5eb959e057c4738be.gif",
+    "index.html": "/psx-api-demo/index.html",
+    "main.073c9b0a.css.map": "/psx-api-demo/static/css/main.073c9b0a.css.map",
+    "main.b271b3cf.js.map": "/psx-api-demo/static/js/main.b271b3cf.js.map",
+    "787.93247c07.chunk.js.map": "/psx-api-demo/static/js/787.93247c07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b271b3cf.js"
+  ]
+}
